@@ -112,3 +112,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.json
+!config.template.json
+\d*-\d*\d*T\d*:\d*:\d*/
