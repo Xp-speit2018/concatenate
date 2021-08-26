@@ -1,0 +1,7 @@
+{
+    "email" : "xupeng@juzi.bot",
+    "password" : "1Qasdfghjkl!",
+    "IMAP" : "imap.exmail.qq.com",
+    "handledFolder" : "McDonald_handled",
+    "unhandledFolder" : "McDonald_unhandled"
+}

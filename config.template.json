@@ -1,0 +1,7 @@
+{
+    "email" : "",
+    "password" : "",
+    "IMAP" : "imap.exmail.qq.com",
+    "handledFolder" : "McDonald_handled",
+    "unhandledFolder" : "McDonald_unhandled"
+}
