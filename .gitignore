@@ -1,3 +1,4 @@
 *.json
 !config.template.json
 */
+!src/
